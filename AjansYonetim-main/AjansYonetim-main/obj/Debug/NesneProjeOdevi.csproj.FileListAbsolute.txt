@@ -1,0 +1,71 @@
+C:\Users\emret\source\repos\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe.config
+C:\Users\emret\source\repos\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe
+C:\Users\emret\source\repos\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csprojAssemblyReference.cache
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form1.resources
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form2.resources
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Properties.Resources.resources
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.GenerateResource.cache
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.exe
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\source\repos\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form3.resources
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe.config
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.pdb
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csprojAssemblyReference.cache
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form1.resources
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form2.resources
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form3.resources
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Properties.Resources.resources
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.exe
+C:\Users\Merve Nur\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\Desktop\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe.config
+C:\Users\emret\Desktop\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe
+C:\Users\emret\Desktop\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form1.resources
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form2.resources
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form3.resources
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Properties.Resources.resources
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.exe
+C:\Users\emret\Desktop\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\bin\Debug\NesneProjeOdevi.exe.config
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\bin\Debug\NesneProjeOdevi.exe
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\bin\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Form1.resources
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Form2.resources
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Form3.resources
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Properties.Resources.resources
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.exe
+C:\Users\emret\Desktop\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.pdb
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\bin\Debug\NesneProjeOdevi.exe.config
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\bin\Debug\NesneProjeOdevi.exe
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\bin\Debug\NesneProjeOdevi.pdb
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Form1.resources
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Form2.resources
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Form3.resources
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.Properties.Resources.resources
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.exe
+C:\Users\user\Desktop\NesneProjeOdevimerve (1)\NesneProjeOdevi(merve)\obj\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe.config
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.exe
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\bin\Debug\NesneProjeOdevi.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form1.resources
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form2.resources
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Form3.resources
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.Properties.Resources.resources
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.exe
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\nesneye yönelik programlama\ajans proje ödevi\NesneProjeOdevi\obj\Debug\NesneProjeOdevi.pdb
